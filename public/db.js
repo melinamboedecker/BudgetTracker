@@ -1,5 +1,5 @@
 let db;
-let budgetVerison;
+let budgetVersion;
 
 //create new db request
 const request = indexedDB.open('BudgetDB', budgetVersion || 21);
