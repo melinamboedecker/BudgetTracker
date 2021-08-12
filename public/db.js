@@ -38,7 +38,8 @@ function checkDatabase() {
     getAll.onsuccess = function () {
         //if items are in the store, bulk add them when back online
         if (getAll.result.length > 0) {
-            fetch('/api/transaction/bull', {
+            console.log('%%%%%%%%%%%%%%%%%%%%%5')
+            fetch('/api/transaction/bulk', {
                 method: 'POST',
                 body: JSON.stringify(getAll.result),
                 headers: {
