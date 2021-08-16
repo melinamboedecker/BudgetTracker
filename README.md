@@ -11,7 +11,7 @@ This is an application that you can use to keep track of your budget.  You can e
 * [Contributing](#contributing) 
 * [Questions](#questions) 
 ## Installation: 
-[Click here for deployed app](https://)   
+[Click here for deployed app](https://budgettransactions.herokuapp.com/)   
    
 Or to run locally:
 
@@ -25,7 +25,7 @@ Or to run locally:
 ## Usage: 
 The homepage will display your total balance, a list of your individual transactions, and a grphical representation of your transactions.  To add a new transaction, enter the name and amount then click either the Add Funds button or the Subtract Funds button to update your total balance. If you are offline, your transactions will still be saved, and when you get back online and refresh the database will then be updated.  
 
-![Screenshot](public/images/.png)
+![Screenshot](public/images/BudgetTrackerScreenshot1.png)
 
 
 ## License: 
