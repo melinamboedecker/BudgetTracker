@@ -1,5 +1,5 @@
 # BudgetTracker
-App to track expensesa and deposits and ability to enter transactions when offline.
+App to track expenses and deposits and ability to enter transactions when offline.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 ## Description: 
